@@ -21,5 +21,5 @@ This app will be hosted on port 3000 by default.
 # Contributors
 
 - Gyeong Jo Kim - Backend and some front-end
-- Jiwoo Kim - Html + css + some javascript/jquery
+- Jiwoo Kim - Html + css
 - Danny Li - Html + css
