@@ -1,6 +1,6 @@
 # Adventure-Project
 
-A practice app to work on javascript/jquery/mongoDB/express/html/css.
+A practice app to work on Javascript/jQuery/MongoDB/Express/HTML/CSS.
 
 This was created using the MEN stack. The login was handled by using passport.js, and the templating was done by using ejs. 
 This app basically allows the users to create infinite routes to stories
@@ -21,5 +21,5 @@ This app will be hosted on port 3000 by default.
 # Contributors
 
 - Gyeong Jo Kim - Backend and some front-end
-- Jiwoo Kim - Html + css
-- Danny Li - Html + css
+- Jiwoo Kim - HTML, CSS, Javascript, jQuery
+- Danny Li - HTML, CSS
